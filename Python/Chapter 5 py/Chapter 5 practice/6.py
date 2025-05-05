@@ -1,0 +1,11 @@
+d={}
+name=input()
+language=input()
+d.update({name:language})
+name=input()
+language=input()
+d.update({name:language})
+name=input()
+language=input()
+d.update({name:language})
+print(d)
