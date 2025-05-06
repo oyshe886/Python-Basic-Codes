@@ -1,3 +1,3 @@
-# I am learning Python 
+# PYTHON
 <br>
 The basic codes are here
